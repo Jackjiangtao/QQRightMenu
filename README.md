@@ -1,10 +1,3 @@
-### projectName ： 	QQCustomMenu
-### author: 		前行中的小猪
-### date: 			2018年05月18日
-### version: 		1.0
-
-
-![image](Image/Demo.png)
 
 
 ## 模仿QQ菜单样式，实现自定义菜单，通过ListWidget加载菜单项;
@@ -15,5 +8,5 @@
 - 其他菜单等样式，菜单项文字颜色，图标等均可自行设置，这里只给出一个模板，大家可自行发挥拓展;
 
 
->博客地址: https://blog.csdn.net/GoForwardToStep
+
 
